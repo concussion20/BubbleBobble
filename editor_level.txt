@@ -1,0 +1,25 @@
+editor_level.txt
+22
+25
+tile_pink tile_pink tile_pink tile_pink tile_pink tile_pink tile_pink tile_pink tile_pink tile_pink tile_pink tile_pink tile_pink tile_pink empty empty empty empty empty tile_pink tile_pink tile_pink tile_pink tile_pink tile_pink 
+tile_pink empty empty empty empty empty empty empty empty empty empty empty empty empty empty empty tile_pink tile_pink tile_pink empty empty empty empty empty tile_pink 
+tile_pink empty empty empty empty empty empty empty empty empty empty empty empty empty empty empty empty empty empty empty empty empty empty empty tile_pink 
+tile_pink empty empty empty empty empty empty empty empty empty empty empty empty empty empty empty empty empty empty empty empty empty empty empty tile_pink 
+tile_pink empty empty empty empty empty empty empty empty empty empty empty tile_pink tile_pink tile_pink tile_pink empty empty empty empty empty empty empty empty tile_pink 
+tile_pink item_apple empty monster empty empty empty empty empty empty empty tile_blue tile_blue tile_blue tile_blue tile_blue tile_blue tile_blue tile_blue empty empty empty empty empty tile_pink 
+tile_pink tile_pink tile_pink tile_pink tile_pink tile_pink tile_pink empty empty empty empty empty empty empty empty empty empty empty empty empty empty empty empty empty tile_pink 
+tile_pink empty empty empty empty empty empty empty empty empty empty empty empty monster empty empty empty empty empty empty empty empty empty empty tile_pink 
+tile_pink empty empty empty empty empty empty empty empty tile_pink tile_pink empty monster empty empty empty monster empty empty empty empty empty empty tile_blue tile_pink 
+tile_pink empty empty empty empty empty empty item_apple empty empty empty empty empty empty empty empty empty empty empty empty tile_blue tile_blue tile_blue tile_blue tile_pink 
+tile_pink tile_pink tile_pink tile_pink tile_pink tile_pink tile_pink tile_pink empty empty empty empty tile_pink tile_pink tile_pink tile_pink tile_pink tile_pink tile_pink empty empty empty empty empty tile_pink 
+tile_pink empty empty empty empty empty empty empty empty empty empty empty tile_pink tile_pink tile_pink tile_pink tile_pink tile_pink tile_pink empty empty empty empty empty tile_pink 
+tile_pink item_banana empty empty empty empty empty empty empty empty empty empty tile_pink tile_pink tile_pink tile_pink tile_pink tile_pink tile_pink empty empty empty empty item_banana tile_pink 
+tile_pink tile_pink tile_pink empty empty empty empty empty empty empty empty empty empty empty empty empty empty empty empty empty empty tile_pink tile_pink tile_pink tile_pink 
+tile_pink empty empty empty empty empty empty empty empty empty empty item_banana item_banana item_banana empty empty empty empty empty empty empty empty empty empty tile_pink 
+tile_pink tile_pink tile_pink tile_pink tile_pink tile_pink tile_pink empty empty empty tile_pink tile_pink tile_pink tile_pink empty empty empty empty empty empty empty empty empty empty tile_pink 
+tile_pink empty empty empty empty empty empty empty empty empty tile_pink tile_pink tile_pink tile_pink empty empty empty empty empty tile_pink tile_pink tile_pink tile_pink tile_pink tile_pink 
+tile_pink empty empty empty empty monster empty empty empty empty empty empty empty empty empty empty empty empty empty empty empty empty empty monster tile_pink 
+tile_pink empty empty empty empty empty empty empty tile_pink tile_pink tile_pink empty empty empty empty tile_pink tile_pink tile_blue tile_blue tile_blue tile_blue tile_blue tile_blue tile_blue tile_pink 
+tile_pink empty empty empty empty empty empty empty empty empty empty empty empty empty empty empty empty empty empty empty empty empty empty empty tile_pink 
+tile_pink empty empty empty empty empty empty item_banana empty empty empty empty empty empty empty empty empty empty empty monster empty empty empty empty tile_pink 
+tile_pink tile_pink tile_pink tile_pink tile_pink tile_pink tile_pink tile_pink tile_pink tile_pink tile_pink tile_pink tile_pink empty tile_pink tile_pink tile_pink empty empty tile_pink empty empty tile_pink tile_pink tile_pink 
